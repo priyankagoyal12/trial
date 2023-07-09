@@ -39,6 +39,7 @@ public class PrintStudentDetails {
             {
                 System.out.println(list[i].getName() + " "+list[i].getAge());
             }
+        /*hi this is priyanka goyal
                   
     }
     
